@@ -1,0 +1,15 @@
+{
+  "name": "discbot",
+  "version": "1.0.0",
+  "description": "This is DiscBot.Rules over a dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnonymousLeader",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "uws": "^9.14.0"
+  }
+}
